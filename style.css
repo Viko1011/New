@@ -1,0 +1,15 @@
+img{
+	width: 200px;
+	height: 200px;
+	padding: 45px 15px 10px 40%;
+}
+pre{
+	padding: 15px 25px 30px 5px;
+	font-size: 16px;
+}
+div{
+	border: 5px solid lightgray;
+	outline-style: outset;
+	outline-color: gray;
+	margin: 20px;
+}

@@ -1,0 +1,33 @@
+span{
+	display: block;
+	height: 50px;
+	background-color: dodgerblue;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	padding-top: 10px;
+    letter-spacing: 10px;
+	text-shadow: -3px 0px gray;
+}
+div{
+	float: right;
+}
+img{
+	width: 350px;
+	height: 442px;
+	border: 1px solid gray;
+}
+iframe{
+	width: 1250px;
+	height: 850px;
+	border: none;/*Махни рамката,когато нагласяш бутоните*/
+}
+form{
+	float: left;
+	margin-top: 15px;
+}
+input{
+	width: 250px;
+	height: 50px;
+	background-color: lightgray;
+}
